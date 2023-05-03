@@ -1,2 +1,2 @@
 # Encription
-A simple Encription lesson
+A simple Encryption lesson
